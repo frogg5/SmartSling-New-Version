@@ -13,11 +13,21 @@ TODO
 
 TODO
 
+## Thereotical Applicablity
+
 ## Table of Costs
 
 TODO
 
 ## Approach
+
+TODO
+
+## Contributions
+
+TODO
+
+## Acknowledgements
 
 TODO
 

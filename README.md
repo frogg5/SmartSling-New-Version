@@ -16,3 +16,11 @@ TODO
 ## Table of Costs
 
 TODO
+
+## Approach
+
+TODO
+
+## Appendix
+
+TODO

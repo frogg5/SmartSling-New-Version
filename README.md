@@ -13,7 +13,9 @@ TODO
 
 TODO
 
-## Thereotical Applicablity
+## Theoretical Applicablity
+
+TODO
 
 ## Table of Costs
 
@@ -21,7 +23,7 @@ TODO
 
 ## Approach
 
-TODO
+Powered by an ESP32 microcontroller, chosen due to its wireless protol capabilities.
 
 ## Contributions
 
